@@ -66,7 +66,9 @@ Since the **map is unknown at the start**, the robot dynamically builds and upda
 - Motor driver + encoders (movement control)  
 - Raspberry Pi (or equivalent controller) running **Python + ROS2**  
 
-![Prize-Fetching Robot](images/IMG_7732.jpeg) 
+<p align="center">
+  <img src="images/IMG_7732.jpeg" alt="Prize-Fetching Robot" width="400"/>
+</p>
 
 ---
 
